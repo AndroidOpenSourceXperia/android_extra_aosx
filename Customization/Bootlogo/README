@@ -1,0 +1,8 @@
+Compile to565
+gcc -o to565 to565.c
+
+PNG to RAW
+convert -depth 8 mylogo.png rgb:mylogo.raw
+
+RAW to RLE
+./to565 -rle < mylogo.raw > mylogo.rle
