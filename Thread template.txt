@@ -29,8 +29,9 @@ Android Open Source Xperia (AOSX) is a team that ported stable AOSP with some Cy
 [*] Download the ROM
 [*] Extract boot.img and flash it
 [*] Copy the ROM to your SD Card
+[*] Boot into recovery
 [*] Wipe data, cache, dalvik cache
-[*] Boot into recovery and install the ROM
+[*] Install the ROM
 [*] Reboot
 [/LIST]
 
