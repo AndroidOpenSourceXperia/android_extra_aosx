@@ -1,4 +1,4 @@
-AOSX TEAM
+AOSX Team
 =============
  [95A31] Developer <br>
  [DevSwift1] Developer <br>
