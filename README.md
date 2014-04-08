@@ -3,7 +3,7 @@
 
 About
 -----
-AOSX(Android Source Open Xperia) is a team bringing stable and pure AOSP without any dirty CM hacks for the Xperia Novathor devices.
+AOSX(Android Open Source Xperia) is a team bringing stable and pure AOSP without any dirty CM hacks for the Xperia Novathor devices.
 
 ROM Downloads
 -------------
