@@ -1,6 +1,5 @@
-![][AOSXImage] AOSX
+![][AOSXImage]
 ===================
-Android Open Source Xperia
 
 About
 -----
@@ -17,6 +16,6 @@ Our latest and greatest source can be found on [GitHub].
 
 You can contact us on this [Thread].
 
-[AOSXImage]: https://avatars2.githubusercontent.com/u/6979655?s=140
+[AOSXImage]: https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_aosx/master/Customization/Logo/Logo.png
 [GitHub]: https://github.com/AndroidOpenSourceXperia
 [Thread]: http://forum.xda-developers.com/xperia-u/general/aosp-xperia-p-sola-t2684583
