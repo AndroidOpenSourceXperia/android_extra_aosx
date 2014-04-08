@@ -1,4 +1,4 @@
-[![][AOSXImage]] 
+![][AOSXImage]
 
 AOSX
 =====
