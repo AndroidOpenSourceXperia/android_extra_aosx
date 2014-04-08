@@ -2,7 +2,7 @@ Thread name: [ROM][UB][AOSP 4.4.2] Xperia U/P/Sola/Go AOSX ROM
 
 [CENTER][IMG]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_aosx/master/Customization/Logo/Logo.png[/IMG]
 
-Android Open Source Xperia (AOSX) is a team that port stable AOSP with some CyanogenMod's features on Sony Xperia Novathor devices[/CENTER]
+Android Open Source Xperia (AOSX) is a team that ported stable AOSP with some CyanogenMod's features on Sony Xperia Novathor devices[/CENTER]
 
 [B]Disclaimer:[/B][CODE]
 /*
@@ -12,7 +12,7 @@ Android Open Source Xperia (AOSX) is a team that port stable AOSP with some Cyan
  * war, or you getting fired because the alarm app failed. Please do some 
  * research if you have any concerns about features included in this ROM
  * before flashing it! YOU are choosing to make these modifications, and if
- * you point the finger at me for messing up your device, I will laugh at you.
+ * you point the finger at us for messing up your device, we will laugh at you.
  *
  */[/CODE]
 
@@ -29,15 +29,15 @@ Android Open Source Xperia (AOSX) is a team that port stable AOSP with some Cyan
 [*] Download the ROM
 [*] Extract boot.img and flash it
 [*] Copy the ROM to your SD Card
-[*] Boot into recovery and install the ROM
 [*] Wipe data, cache, dalvik cache
+[*] Boot into recovery and install the ROM
 [*] Reboot
 [/LIST]
 
 [B]Release note:[/B]
 [LIST]
-[*]Bugs are expected on these builds, please submit a logcat with the bug report otherwise it will not fixed.
-[*]If you can help us feel free to submit pull requests on our github
+[*]Bugs are expected on these builds, please submit a logcat with the bug report otherwise it will not be fixed.
+[*]If you can help us feel free to submit pull requests on our github.
 [/LIST]
 
 [B]Missing features:[/B]
@@ -54,7 +54,7 @@ Android Open Source Xperia (AOSX) is a team that port stable AOSP with some Cyan
 [B]Credits:[/B]
 [LIST]
 [*] [URL="https://source.android.com/"]Android Open Source Project[/URL] for Android code
-[*] [URL="http://forum.xda-developers.com/member.php?u=4120742"]munjeni[/URL] for develops, bugfixs and suggestions
-[*] [URL="http://www.cyanogenmod.org/"]CyanogenMod Project[/URL] for provide bugfix and features 
-[*] All developers that help us with their code
+[*] [URL="http://forum.xda-developers.com/member.php?u=4120742"]munjeni[/URL] for developing, bugfixes and suggestions
+[*] [URL="http://www.cyanogenmod.org/"]CyanogenMod Project[/URL] for providing bugfixes and features 
+[*] All developers that helped us with their code
 [/LIST]
