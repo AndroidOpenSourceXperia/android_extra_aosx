@@ -1,7 +1,5 @@
-![][AOSXImage]
-
-AOSX
-=====
+![][AOSXImage] AOSX
+===================
 Android Open Source Xperia
 
 About
