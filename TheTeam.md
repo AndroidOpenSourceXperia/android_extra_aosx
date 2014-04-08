@@ -1,5 +1,5 @@
-THE AOSX TEAM:
-==============
+THE AOSX TEAM
+=============
 
  [95A31] 
 <br> [DevSwift1] 
