@@ -10,7 +10,7 @@ TODO:
 
 - Integrate gApps (Easy)
 - Fix A2DP (Hard)
-- FIx NFC
+- FIx NFC (Mid/Hard)
 - Fix Wi-Fi Direct (Mid/Hard)
    * https://github.com/android/platform_frameworks_base/commit/b010fd6fe5d2293596a96a45f0a4b709c44c2390
 - Fix reported bugs (Mid)
