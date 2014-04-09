@@ -45,6 +45,7 @@ Android Open Source Xperia (AOSX) is a team that ported stable AOSP with some Cy
 [LIST]
 [*] FM Radio
 [*] WiFi Direct
+[*] NFC
 [*] A2DP
 [/LIST]
 
