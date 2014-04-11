@@ -27,7 +27,6 @@ TODO:
 - Format and modularize resources (Mid/Hard)
 -- V2 BUILD!!!
 
-- Improve LED behaviour on Xperia U (Mid)
 - Fix reported bugs (Mid)
 - Cleanup and stabilize code (Mid/Hard)
 - Use F2FS (Mid/Hard)
