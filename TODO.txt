@@ -13,12 +13,11 @@ TODO:
 -- V0 BUILD!!!
 
 - Fix A2DP (Hard)
-- FIx NFC (Mid/Hard)
 - Fix Wi-Fi Direct (Mid/Hard)
    * https://github.com/android/platform_frameworks_base/commit/b010fd6fe5d2293596a96a45f0a4b709c44c2390
 - Fix reported bugs (Mid)
 - Final checks ands devices syncs (Easy)
-- Debug NFC and HDMI issues (Hard)
+- Fix NFC and HDMI (Hard)
 -- V1 BUILD!!!
 
 - Fix reported bugs (Mid)
