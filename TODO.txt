@@ -8,8 +8,9 @@ TODO:
 - Integrate gApps (Easy) => DONE
 - Fix Xperia Go bootloop (Mid) => DONE
 - Fix Xperia Sola bootloop (Mid) => DONE
-- Initial support for NFC [XSOLA, XP] and HDMI [XP]  (Easy)
 - Fix external SD (Mid) => DONE
+- Initial support for NFC [XSOLA, XP] and HDMI [XP]  (Easy)
+- Fix offline charging (Mid) 
 - Remove AOSP music player and add apollo (easy)
 -- V0 BUILD!!!
 
