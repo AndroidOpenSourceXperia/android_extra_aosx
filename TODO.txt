@@ -9,9 +9,9 @@ TODO:
 - Fix Xperia Go bootloop (Mid) => DONE
 - Fix Xperia Sola bootloop (Mid) => DONE
 - Fix external SD (Mid) => DONE
-- Initial support for NFC [XSOLA, XP] and HDMI [XP]  (Easy)
-- Fix offline charging (Mid) 
-- Remove AOSP music player and add apollo (easy)
+- Replace Music with Apollo (Easy) => DONE
+- Initial support for NFC and HDMI (Mid)
+- Fix offline charging (Mid)
 -- V0 BUILD!!!
 
 - Fix A2DP (Hard)
