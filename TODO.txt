@@ -21,6 +21,7 @@ TODO:
 - Add multi-user support (Easy) => DONE
 - Add DSP and remove MusicFX (Easy) => DONE
 - Fix translations in settings (Easy) => DONE
+- Update bluez to 5.18 (Easy) => DONE
 - FIx camera app (labels for scene, missing resolution)
    * https://github.com/CyanogenMod/android_packages_apps_Camera2/commit/ba0c64720ea43807d8995cc6ec3cd142c427741a
    this is for 13MP but in same way we can add 3MP :P
