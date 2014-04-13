@@ -11,7 +11,7 @@ TODO:
 - Fix external SD (Mid) => DONE
 - Replace Music with Apollo (Easy) => DONE
 - Initial support for NFC and HDMI (Mid) => DONE [Debugging in next version]
-- Fix offline charging (Mid)
+- Fix offline charging (Mid) => DONE
 -- V0 BUILD!!!
 
 - Fix A2DP (Hard)
