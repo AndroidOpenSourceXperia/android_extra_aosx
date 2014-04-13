@@ -13,12 +13,12 @@ TODO:
 - Initial support for NFC and HDMI (Mid) => DONE
 - Fix offline charging (Mid) => DONE
 - Fix Heartbleed vulnerability (Easy) => DONE
--- V0 BUILD!!!
+-- V0 BUILD!!! ==> DONE
 
+- Fix calendar fc (Easy) => DONE
 - Fix voice dial app
 - Include apns-conf.xml
 - Fix translations in settings
-- Fix calendar fc
 - FIx camera app (labels for scene, missing resolution)
    * https://github.com/CyanogenMod/android_packages_apps_Camera2/blob/ba0c64720ea43807d8995cc6ec3cd142c427741a/res/values/strings.xml 
    this is for 13MP but in same way we can add 3MP :P
