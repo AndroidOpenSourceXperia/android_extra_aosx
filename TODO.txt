@@ -20,7 +20,7 @@ TODO:
 - Include apns-conf.xml
 - Fix translations in settings
 - FIx camera app (labels for scene, missing resolution)
-   * https://github.com/CyanogenMod/android_packages_apps_Camera2/blob/ba0c64720ea43807d8995cc6ec3cd142c427741a/res/values/strings.xml 
+   * https://github.com/CyanogenMod/android_packages_apps_Camera2/commit/ba0c64720ea43807d8995cc6ec3cd142c427741a
    this is for 13MP but in same way we can add 3MP :P
    * https://github.com/CyanogenMod/android_packages_apps_Camera2/commit/e7cb33d130d2e86f4ef664b9203167afbfee42ff
 - Fix A2DP (Hard)
