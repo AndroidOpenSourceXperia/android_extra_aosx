@@ -16,8 +16,9 @@ TODO:
 -- V0 BUILD!!! ==> DONE
 
 - Fix calendar fc (Easy) => DONE
-- Fix voice dial app => DONE
-- Include apns-conf.xml
+- Fix voice dial app (Easy) => DONE
+- Include apns-conf.xml (Easy) => DONE
+- Add multi-user support (Easy) => DONE
 - Fix translations in settings
 - FIx camera app (labels for scene, missing resolution)
    * https://github.com/CyanogenMod/android_packages_apps_Camera2/commit/ba0c64720ea43807d8995cc6ec3cd142c427741a
