@@ -15,6 +15,7 @@ TODO:
 - Fix Heartbleed vulnerability (Easy) => DONE
 -- V0 BUILD!!!
 
+- Include apns-conf.xml
 - Fix translations in settings
 - Fix calendar fc
 - FIx camera app ( łabels for scene, missing resolution=
