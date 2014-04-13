@@ -15,6 +15,7 @@ TODO:
 - Fix Heartbleed vulnerability (Easy) => DONE
 -- V0 BUILD!!!
 
+- Fix voice dial app
 - Include apns-conf.xml
 - Fix translations in settings
 - Fix calendar fc
