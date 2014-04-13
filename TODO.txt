@@ -16,7 +16,7 @@ TODO:
 -- V0 BUILD!!! ==> DONE
 
 - Fix calendar fc (Easy) => DONE
-- Fix voice dial app
+- Fix voice dial app => DONE
 - Include apns-conf.xml
 - Fix translations in settings
 - FIx camera app (labels for scene, missing resolution)
