@@ -10,7 +10,7 @@ TODO:
 - Fix Xperia Sola bootloop (Mid) => DONE
 - Fix external SD (Mid) => DONE
 - Replace Music with Apollo (Easy) => DONE
-- Initial support for NFC and HDMI (Mid) => DONE [Debugging in next version]
+- Initial support for NFC and HDMI (Mid) => DONE
 - Fix offline charging (Mid) => DONE
 -- V0 BUILD!!!
 
