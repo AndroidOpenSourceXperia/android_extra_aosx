@@ -12,7 +12,7 @@ TODO:
 - Replace Music with Apollo (Easy) => DONE
 - Initial support for NFC and HDMI (Mid) => DONE
 - Fix offline charging (Mid) => DONE
-- Update OpenSSL in order to fix Heartbleed (Easy) => DONE
+- Fix Heartbleed vulnerability (Easy) => DONE
 -- V0 BUILD!!!
 
 - Fix A2DP (Hard)
