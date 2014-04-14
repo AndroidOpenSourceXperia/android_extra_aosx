@@ -1,7 +1,7 @@
 [CENTER][SIZE="6"][FONT="Verdana"]F.A.Q.[/FONT][/SIZE][/CENTER]
 
-[B]What is the diffence between AOSP and AOSX ?[/B]
-We integrate in AOSP the follow features:
+[B]What is the difference between AOSP and AOSX ?[/B]
+We have integrated the follow features in AOSP :
 [LIST]
 [*]BlueZ bluetooth stack
 [*]CyanogenMod's Superuser
@@ -17,16 +17,16 @@ plus some hardware and development stuff. For more information check our [URL="h
 
 
 [B]Why don't you keep it pure AOSP ?[/B]
-Because our goal is to provide users a friendly and clean ROM. We choose these applications because they are opensource and advertisement free. 
+Because our goal is to provide a user friendly and clean ROM. We chose these applications because they are opensource and advertisement free. 
 
 
 [B]I do not like some pre-installed applications, how I can delete them ?[/B]
-If you do not like some pre-installed applications, just uninstall them with a rooted uninstaller like [URL="https://play.google.com/store/apps/details?id=com.rootuninstaller.free&hl=en"]Root Uninstaller[/URL].
+If you do not like them, just uninstall them with a rooted uninstaller like [URL="https://play.google.com/store/apps/details?id=com.rootuninstaller.free&hl=en"]Root Uninstaller[/URL].
 
 
 [B]Feature X is not working or applications Y is force closed, what can I do ?[/B]
-Usually this kind of problem is due dirty installation. Please wipe data, cache and dalvik cache.
+Usually this kind of problem is due to dirty installation. Please wipe data, cache and dalvik cache.
 
 
 [B]I found a bug. How do I report it ?[/B]
-Create a bug report on [URL="https://code.google.com/p/android-open-source-xperia-project/issues/list"]our[/URL] bugtraker and remember to attach a logcat, otherwise your report will be ignored. Also try to attach the log of only the relevant part.
+Create a bug report on [URL="https://code.google.com/p/android-open-source-xperia-project/issues/list"]Bug Tracker[/URL] and remember to attach a logcat, otherwise your report will be ignored. Also try to attach the log of only the relevant part.
