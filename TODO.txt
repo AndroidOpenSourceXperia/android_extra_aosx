@@ -25,8 +25,8 @@ TODO:
 - Fix settings option of Launcher3/redirect to system settings (Easy) => DONE
 - Fix libcyanogen-dsp build (Easy) => DONE
 - Fix DSP manager build (Easy) => DONE
+- Fix GPS (Easy) => DONE
 - Fix Capacitive button backlights and illumination bar [XSola]
-- Fix GPS
 - FIx camera app (labels for scene, missing resolution)
    * https://github.com/CyanogenMod/android_packages_apps_Camera2/commit/ba0c64720ea43807d8995cc6ec3cd142c427741a
    * More resolutions added.
