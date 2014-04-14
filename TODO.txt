@@ -26,6 +26,7 @@ TODO:
 - Fix libcyanogen-dsp build (Easy) => DONE
 - Fix DSP manager build (Easy) => DONE
 - Fix GPS (Easy) => DONE
+- Fix Lockscreen unlock by menu key (Easy) => DONE
 - Add reboot option to power menu (Easy)
 - Fix Capacitive button backlights and illumination bar [XSola]
 - FIx camera app (labels for scene, missing resolution)
