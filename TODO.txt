@@ -30,6 +30,10 @@ TODO:
    * https://github.com/CyanogenMod/android_packages_apps_Camera2/commit/ba0c64720ea43807d8995cc6ec3cd142c427741a
    this is for 13MP but in same way we can add 3MP :P
    * https://github.com/CyanogenMod/android_packages_apps_Camera2/commit/e7cb33d130d2e86f4ef664b9203167afbfee42ff
+- Fix reported bugs (Mid)
+- Final checks ands devices syncs (Easy)
+-- V0.1 BUILD!!!
+
 - Fix A2DP (Hard)
 - Fix Wi-Fi Direct (Mid/Hard)
    * https://github.com/android/platform_frameworks_base/commit/b010fd6fe5d2293596a96a45f0a4b709c44c2390
