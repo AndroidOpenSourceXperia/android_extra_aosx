@@ -23,7 +23,8 @@ TODO:
 - Fix translations in settings (Easy) => DONE
 - Update bluez to 5.18 (Easy) => DONE
 - Fix settings option of Launcher3/redirect to system settings (Easy) => DONE
-- Fix DSP manager build (packages/apps/DSPManager/cyanogen-dsp/cyanogen-dsp.cpp:26:45: fatal error: audio_effects/effect_stereowide.h: No such file or directory) => DONE
+- Fix libcyanogen-dsp build (Easy) => DONE
+- Fix DSP manager build (Easy)
 - Fix Capacitive button backlights and illumination bar [XSola]
 - Fix GPS
 - FIx camera app (labels for scene, missing resolution)
