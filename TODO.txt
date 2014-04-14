@@ -28,6 +28,7 @@ TODO:
 - Fix GPS (Easy) => DONE
 - Fix Lockscreen unlock by menu key (Easy) => DONE
 - Fix Browser(incognito mode, history page, FC) => DONE
+- Fix Disable menu button in app drawer (Easy) => DONE
 - Fix Capacitive button backlights and illumination bar [XSola]
 - FIx camera app (labels for scene, missing resolution)
    * https://github.com/CyanogenMod/android_packages_apps_Camera2/commit/ba0c64720ea43807d8995cc6ec3cd142c427741a
