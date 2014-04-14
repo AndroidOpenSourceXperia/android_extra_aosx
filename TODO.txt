@@ -17,7 +17,7 @@ TODO:
 
 - Fix calendar fc (Easy) => DONE
 - Fix voice dial app (Easy) => DONE
-- Include apns-conf.xml (Easy) => DONE
+- Include apns-conf.xml (Easy) => Need FIX
 - Add multi-user support (Easy) => DONE
 - Add DSP and remove MusicFX (Easy) => DONE
 - Fix translations in settings (Easy) => DONE
