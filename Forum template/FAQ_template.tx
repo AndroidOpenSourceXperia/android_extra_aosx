@@ -1,1 +1,32 @@
-WIP
+[CENTER][SIZE="6"][FONT="Verdana"]F.A.Q.[/FONT][/SIZE][/CENTER]
+
+[B]What is the diffence between AOSP and AOSX ?[/B]
+We integrate in AOSP the follow features:
+[LIST]
+[*]BlueZ bluetooth stack
+[*]CyanogenMod's Superuser
+[*]CyanogenMod's File Manager
+[*]CyanogenMod's Torch
+[*]CyanogenMod's BusyBox
+[*]OmniROM Recovery (TWRP)
+[*]OmniROM music player (Apollo)
+[*]OmniROM equalizer (DSP Manager)
+[*]Google Play Store
+[/LIST]
+plus some hardware and development stuff. For more information check our [URL="https://github.com/AndroidOpenSourceXperia/android_scripts/blob/master/.repo/local_manifests/local_manifest.xml"]local_manifest.xml[/URL].
+
+
+[B]Why you do not keep pure AOSP ?[/B]
+Because our goal is provide to users a friendly and clean ROM. We choose these applications because they are opensource and advertisement free. 
+
+
+[B]I do not like some pre-installed applications, how I can delete them ?[/B]
+If you do not like some pre-installed applications, just uninstall them with a rooted uninstaller like [URL="https://play.google.com/store/apps/details?id=com.rootuninstaller.free&hl=en"]Root Uninstaller[/URL].
+
+
+[B]Feature X is not working or applications Y is force closed, what I can do ?[/B]
+Usually this king of problem is due dirty installation. Please wipe data, cache and dalvin cache.
+
+
+[B]I found a bug, how I report it ?[/B]
+Create a bur report on [URL="https://code.google.com/p/android-open-source-xperia-project/issues/list"]this[/URL] bugtraker and remember attach a logcat otherwise your report will be ignored.
