@@ -24,7 +24,7 @@ TODO:
 - Update bluez to 5.18 (Easy) => DONE
 - Fix settings option of Launcher3/redirect to system settings (Easy) => DONE
 - Fix libcyanogen-dsp build (Easy) => DONE
-- Fix DSP manager build (Easy)
+- Fix DSP manager build (Easy) => DONE
 - Fix Capacitive button backlights and illumination bar [XSola]
 - Fix GPS
 - FIx camera app (labels for scene, missing resolution)
