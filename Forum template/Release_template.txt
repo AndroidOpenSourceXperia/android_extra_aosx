@@ -2,7 +2,7 @@ Thread name: [ROM][UB][AOSP 4.4.2] Xperia U/P/Sola/Go AOSX ROM
 
 [CENTER][IMG]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_aosx/master/Customization/Logo/Logo.png[/IMG]
 
-Android Open Source Xperia (AOSX) is a team that ported stable AOSP with some CyanogenMod's/OmniROM's features on Sony Xperia Novathor devices.[/CENTER]
+Android Open Source Xperia (AOSX) is a team that ported stable AOSP with some CyanogenMod's /OmniROM's features on Sony Xperia Novathor devices.[/CENTER]
 
 [B]Disclaimer:[/B][CODE]
 /*
@@ -38,7 +38,7 @@ Android Open Source Xperia (AOSX) is a team that ported stable AOSP with some Cy
 [B]Release note:[/B]
 [LIST]
 [*]If you can help us feel free to submit pull requests on our github.
-[*]Bugs are expected on these builds. For submit a bugreport use [URL="https://code.google.com/p/android-open-source-xperia-project/issues/list"]this[/URL] bug traker and remember attach a logcat otherwise your report will be ignored: [HIDE][IMG]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_aosx/master/Forum%20template/logcat.png[/IMG][/HIDE]
+[*]Bugs are expected on these builds. For submitting a bugreport use [URL="https://code.google.com/p/android-open-source-xperia-project/issues/list"]Bug Tracker[/URL] and remember attaching a logcat otherwise your report will be ignored: [HIDE][IMG]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_aosx/master/Forum%20template/logcat.png[/IMG][/HIDE]
 [/LIST]
 
 [B]Missing features:[/B]
