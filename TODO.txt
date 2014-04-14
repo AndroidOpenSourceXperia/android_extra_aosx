@@ -29,6 +29,7 @@ TODO:
 - Fix Lockscreen unlock by menu key (Easy) => DONE
 - Fix Browser(incognito mode, history page, FC) => DONE
 - Fix Disable menu button in app drawer (Easy) => DONE
+- Fix A2DP [Phone Audio] [Calling via Bluetooth] (BlueZ-5.18) => DONE
 - Fix Capacitive button backlights and illumination bar [XSola]
 - FIx camera app (labels for scene, missing resolution)
    * https://github.com/CyanogenMod/android_packages_apps_Camera2/commit/ba0c64720ea43807d8995cc6ec3cd142c427741a
@@ -37,7 +38,7 @@ TODO:
 - Final checks ands devices syncs (Easy)
 -- V0.1 BUILD!!!
 
-- Fix A2DP (Hard)
+- Fix A2DP [Media Audio] (Hard)
 - Fix Wi-Fi Direct (Mid/Hard)
    * https://github.com/android/platform_frameworks_base/commit/b010fd6fe5d2293596a96a45f0a4b709c44c2390
 - Fix NFC and HDMI (Hard)
