@@ -6,7 +6,7 @@ AOSX Team
  [Abhinav2] Junior developer <br>
  [Andrewasth] Mantainer & Code reviewer <br>
  [AGONTUK] TWRP Developer & Code reviewer <br>
- [XperiaMT27] Xperia Sola mantainer <br>
+ [alwaysadeel] Xperia Sola mantainer <br>
  [wan5xp] Xperia Go mantainer <br>
 
 [95A31]: http://forum.xda-developers.com/member.php?u=5265970
