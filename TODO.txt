@@ -33,7 +33,8 @@ TODO:
 - Added Basic Reboot Power Menu Option (Easy) => DONE
 - Improved Scrolling Cache (Easy) => DONE
 - Added STE Healthd Battery HAL Support (Easy) => DONE
-- FIx camera app (labels for scene, missing resolution) => DONE
+- Fix camera app (labels for scene, missing resolution) => DONE
+- Fix Heartbleed vulnerability in chromium openssl (Easy) => DONE
 - Fix Capacitive button backlights and illumination bar [XSola]
 - Fix reported bugs (Mid)
 - Final checks ands devices syncs (Easy)
