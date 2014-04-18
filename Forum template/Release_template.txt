@@ -22,7 +22,7 @@ Android Open Source Xperia (AOSX) is a team that ported stable AOSP with some Cy
 [IMG]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_aosx/master/Screenshots/Screenshot%203.png[/IMG] [IMG]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_aosx/master/Screenshots/Screenshot%204.png[/IMG]
 [/HIDE]
 
-[B]Download:[/B] Link to ROM, please upload it to [url]http://d-h.st/[/url]
+[B]Download:[/B] Link to ROM, please upload it to [url]http://d-h.st/[/url] and kindly don't mirror or share your provate build's
 
 [B]How to install:[/B]
 [LIST=1]
