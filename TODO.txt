@@ -36,7 +36,7 @@ TODO:
 - Fix camera app (labels for scene, missing resolution) => DONE
 - Fix Heartbleed vulnerability in chromium openssl (Easy) => DONE
 - Adapt gralloc , copybit , stelpcutils , memtrack from leaked sources (Easy) => DONE
-- Fix Capacitive button backlights and illumination bar [XSola]
+- Fix Capacitive button backlights and illumination bar [XSola] (Initial fix) => DONE
 - Fix reported bugs (Mid)
 - Final checks ands devices syncs (Easy)
 -- V0.1 BUILD!!!
