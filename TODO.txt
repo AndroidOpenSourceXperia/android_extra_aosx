@@ -22,49 +22,50 @@ TODO:
 - Add DSP and remove MusicFX (Easy) => DONE
 - Fix translations in settings (Easy) => DONE
 - Update bluez to 5.18 (Easy) => DONE
-- Fix settings option of Launcher3/redirect to system settings (Easy) => DONE
+- Fix settings option of Launcher3 (Easy) => DONE
 - Fix libcyanogen-dsp build (Easy) => DONE
 - Fix DSP manager build (Easy) => DONE
 - Fix GPS (Easy) => DONE
 - Fix Lockscreen unlock by menu key (Easy) => DONE
 - Fix Browser(incognito mode, history page, FC) => DONE
-- Fix Disable menu button in app drawer (Easy) => DONE
-- Fix A2DP [Phone Audio] [Calling via Bluetooth] (BlueZ-5.18) => DONE
+- Disable menu button in app drawer (Easy) => DONE
+- Fix call via bluetooth => DONE
 - Added Basic Reboot Power Menu Option (Easy) => DONE
 - Improved Scrolling Cache (Easy) => DONE
 - Added STE Healthd Battery HAL Support (Easy) => DONE
 - Fix camera app (labels for scene, missing resolution) => DONE
 - Fix Heartbleed vulnerability in chromium openssl (Easy) => DONE
-- Adapt gralloc , copybit , stelpcutils , memtrack from leaked sources (Easy) => DONE
-- Fix Capacitive button backlights and illumination bar [XSola] (Initial fix) => DONE
-- Add LED notification support (Mid)
+- Adapt gralloc, copybit ,stelpcutils  memtrack from sources (Easy) => DONE
+- Fix capacitive button backlights => DONE
+- Add LED bar notification support (Mid)
   * https://github.com/CyanogenMod/android_packages_apps_Settings/tree/cm-11.0/src/com/android/settings/notificationlight
 - Fix Wi-Fi location (Mid)
+- Add translation of reboot menu (Easy)
 - Fix reported bugs (Mid)
 - Final checks ands devices syncs (Easy)
--- V0.1 BUILD!!!
+-- V1 BUILD!!!
 
-- Fix A2DP [Media Audio] (Hard)
+- Fix A2DP (Hard)
 - Fix Wi-Fi Direct (Mid/Hard)
    * https://github.com/android/platform_frameworks_base/commit/b010fd6fe5d2293596a96a45f0a4b709c44c2390
 - Fix NFC and HDMI (Hard)
 - Fix reported bugs (Mid)
 - Final checks ands devices syncs (Easy)
--- V1 BUILD!!!
+-- V2 BUILD!!!
 
 - Fix reported bugs (Mid)
 - Fix FM Radio (Hard)
 - Add overclock CPU/GPU (Mid)
 - Final checks ands devices syncs (Easy)
 - Format and modularize resources (Mid/Hard)
--- V2 BUILD!!!
+-- V3 BUILD!!!
 
 - Fix reported bugs (Mid)
 - Cleanup and stabilize code (Mid/Hard)
 - Use F2FS (Mid/Hard)
 - Mali dinamic memory (Mid/Hard)
 - Optimization (Easy/Mid)
--- V3 BUILD!!!
+-- V4 BUILD!!!
 
 - Fix reported bugs (Mid)
 -- FINAL BUILD!!!
