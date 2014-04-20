@@ -37,6 +37,9 @@ TODO:
 - Fix Heartbleed vulnerability in chromium openssl (Easy) => DONE
 - Adapt gralloc , copybit , stelpcutils , memtrack from leaked sources (Easy) => DONE
 - Fix Capacitive button backlights and illumination bar [XSola] (Initial fix) => DONE
+- Add LED notification support (Mid)
+  * https://github.com/CyanogenMod/android_packages_apps_Settings/tree/cm-11.0/src/com/android/settings/notificationlight
+- Fix Wi-Fi location (Mid)
 - Fix reported bugs (Mid)
 - Final checks ands devices syncs (Easy)
 -- V0.1 BUILD!!!
