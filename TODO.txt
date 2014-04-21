@@ -26,6 +26,7 @@ TODO:
 - Fix libcyanogen-dsp build (Easy) => DONE
 - Fix DSP manager build (Easy) => DONE
 - Fix GPS (Easy) => DONE
+- Fix A-GPS (Easy) => DONE
 - Fix Lockscreen unlock by menu key (Easy) => DONE
 - Fix Browser(incognito mode, history page, FC) => DONE
 - Disable menu button in app drawer (Easy) => DONE
