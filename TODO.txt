@@ -35,7 +35,7 @@ TODO:
 - Added STE Healthd Battery HAL Support (Easy) => DONE
 - Fix camera app (labels for scene, missing resolution) => DONE
 - Fix Heartbleed vulnerability in chromium openssl (Easy) => DONE
-- Adapt gralloc, copybit ,stelpcutils  memtrack from sources (Easy) => DONE
+- Adapt gralloc, copybit, hwcomposer, stelpcutils, memtrack from sources (Easy) => DONE
 - Fix capacitive button backlights (Complete fix) => DONE
 - Add LED bar notification support (Mid)
   * https://github.com/CyanogenMod/android_packages_apps_Settings/tree/cm-11.0/src/com/android/settings/notificationlight
