@@ -41,12 +41,9 @@ TODO:
 - Add settings location on-off switch. Credits: Jorge Ruesga <jorge@ruesga.com>, CyanogenMod (Easy) => DONE
 - Add LED bar notification support (Mid)
   * https://github.com/CyanogenMod/android_packages_apps_Settings/tree/cm-11.0/src/com/android/settings/notificationlight
-- Fix Wi-Fi location (Mid)
-- Add translation of reboot menu (Easy)
-- Fix reported bugs (Mid)
-- Final checks ands devices syncs (Easy)
 -- V1 BUILD!!!
 
+- Fix Network Data location (Mid)
 - Fix A2DP (Hard)
 - Fix Wi-Fi Direct (Mid/Hard)
    * https://github.com/android/platform_frameworks_base/commit/b010fd6fe5d2293596a96a45f0a4b709c44c2390
