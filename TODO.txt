@@ -39,10 +39,10 @@ TODO:
 - Adapt gralloc, copybit, hwcomposer, stelpcutils, memtrack from sources (Easy) => DONE
 - Fix capacitive button backlights (Complete fix) => DONE
 - Add settings location on-off switch. Credits: Jorge Ruesga <jorge@ruesga.com>, CyanogenMod (Easy) => DONE
-- Add LED bar notification support (Mid)
-  * https://github.com/CyanogenMod/android_packages_apps_Settings/tree/cm-11.0/src/com/android/settings/notificationlight
 -- V1 BUILD!!!
 
+- Add LED bar notification support (Mid)
+  * https://github.com/CyanogenMod/android_packages_apps_Settings/tree/cm-11.0/src/com/android/settings/notificationlight
 - Fix Network Data location (Mid)
 - Fix A2DP (Hard)
 - Fix Wi-Fi Direct (Mid/Hard)
