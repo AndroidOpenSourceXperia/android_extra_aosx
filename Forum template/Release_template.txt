@@ -59,7 +59,7 @@ Android Open Source Xperia (AOSX) is a team that ported stable AOSP with some Cy
 [URL="http://forum.xda-developers.com/member.php?u=4766488"]Abhinav2[/URL]: Junior developer 
 [URL="http://forum.xda-developers.com/member.php?u=5092285"]Andrewasth[/URL]: Mantainer & Code reviewer 
 [URL="http://forum.xda-developers.com/member.php?u=5138693"]AGONTUK[/URL]: TWRP Developer & Code reviewer 
-[URL="http://forum.xda-developers.com/member.php?u=5143053"]XperiaMT27[/URL]: Xperia Sola mantainer 
+[URL="http://forum.xda-developers.com/member.php?u=5143053"]alwaysadeel[/URL]: Xperia Sola mantainer 
 [URL="http://forum.xda-developers.com/member.php?u=5302450"]wan5xp[/URL]: Xperia Go mantainer 
 
 [B]Credits:[/B]
