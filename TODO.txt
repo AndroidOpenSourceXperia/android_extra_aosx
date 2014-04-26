@@ -43,6 +43,7 @@ TODO:
 
 - Add LED bar notification support (Mid)
   * https://github.com/CyanogenMod/android_packages_apps_Settings/tree/cm-11.0/src/com/android/settings/notificationlight
+- Mount both external and internal storage in TWRP (Mid)
 - Fix Network Data location (Mid)
 - Fix A2DP (Hard)
 - Fix Wi-Fi Direct (Mid/Hard)
