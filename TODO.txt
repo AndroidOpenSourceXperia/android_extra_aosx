@@ -42,6 +42,8 @@ TODO:
 -- V1 BUILD!!!
 
 - Mount both external and internal storage in TWRP (Mid) => DONE
+- Removed CM file manager and added DocumentsUI as File manager (Easy) => DONE
+- Port Peek From AOSPA (Mid) => DONE (Need a take on this)
 - Add LED bar notification support (Mid)
   * https://github.com/CyanogenMod/android_packages_apps_Settings/tree/cm-11.0/src/com/android/settings/notificationlight
 - Fix Network Data location (Mid)
