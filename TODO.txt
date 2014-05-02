@@ -42,10 +42,9 @@ TODO:
 -- V1 BUILD!!!
 
 - Mount both external and internal storage in TWRP (Mid) => DONE
-- Port Peek From AOSPA [XP] (Mid) => DONE
+- [AOSX+] Port Peek from AOSPA (Mid) => DONE
 - Updated Pixel Format, Ported Pixel Format Information and Add missing compatibility symbol (Easy) => DONE
-- Add LED bar notification support (Mid)
-  * https://github.com/CyanogenMod/android_packages_apps_Settings/tree/cm-11.0/src/com/android/settings/notificationlight
+- Add LED bar notification support (Mid) => DONE
 - Fix Network Data location (Mid)
 - Fix A2DP (Hard)
 - Fix Wi-Fi Direct (Mid/Hard)
