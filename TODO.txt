@@ -45,7 +45,7 @@ TODO:
 - [AOSX+] Port Peek from AOSPA (Mid) => DONE
 - Updated Pixel Format, Ported Pixel Format Information and Add missing compatibility symbol (Easy) => DONE
 - Add LED bar notification support (Mid) => DONE
-- Fix hardware camera button opening camera => DONE
+- Fix hardware camera button opening camera (Easy) => DONE
 - Fix Network Data location (Mid) => DONE
 - Fix A2DP (Hard)
 - Fix Wi-Fi Direct (Mid/Hard)
