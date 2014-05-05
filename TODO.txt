@@ -47,6 +47,7 @@ TODO:
 - Add LED bar notification support (Mid) => DONE
 - Fix hardware camera button opening camera (Easy) => DONE
 - Fix Network Data location (Mid) => DONE
+- Fix Android Beam (NFC based) and Tap & pay [XSola] (Easy) => DONE
 - Fix A2DP (Hard)
 - Fix Wi-Fi Direct (Mid/Hard)
    * https://github.com/android/platform_frameworks_base/commit/b010fd6fe5d2293596a96a45f0a4b709c44c2390
