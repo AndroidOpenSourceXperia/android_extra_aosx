@@ -52,6 +52,7 @@ TODO:
 - Improved UI performance and Added InCallUI in memory to fix call lag (Easy) => DONE
 - Fix ADB in recovery (Easy) => DONE
 - Implement STE codecs part1 (Mid) => DONE
+- Fixed Notification LED's for XP (EASY) => DONE
 - Fix A2DP (Hard)
 - Fix Wi-Fi Direct (Mid/Hard)
    * https://github.com/android/platform_frameworks_base/commit/b010fd6fe5d2293596a96a45f0a4b709c44c2390
