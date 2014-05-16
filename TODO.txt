@@ -56,27 +56,32 @@ TODO:
 - Disable "Erase Sd Card" option when there is none (EASY) => DONE
 - Fix code-execution flaw (Easy) => DONE
 - Fix location switch conflict (Easy) => DONE
+- Remove embedded gApps and add to thread template a link to gApps by AOSPA's gApps (http://forum.xda-developers.com/showthread.php?p=50684821#post50684821) (Easy)
+- Import translations for Reboot menù and LED Controls (Mid)
+- Fix continuous red LED blinking when battery is low (Mid/Hard)
+-- V2 BUILD!!!
+
 - Fix Wi-Fi Direct (Mid/Hard) => 50%
 - Fix A2DP (Hard)
    * https://github.com/android/platform_frameworks_base/commit/b010fd6fe5d2293596a96a45f0a4b709c44c2390
 - Fix NFC (Tags) and HDMI (Hard)
 - Fix reported bugs (Mid)
 - Final checks ands devices syncs (Easy)
--- V2 BUILD!!!
+-- V3 BUILD!!!
 
 - Fix reported bugs (Mid)
 - Fix FM Radio (Hard)
 - Add overclock CPU/GPU (Mid)
 - Final checks ands devices syncs (Easy)
 - Format and modularize resources (Mid/Hard)
--- V3 BUILD!!!
+-- V4 BUILD!!!
 
 - Fix reported bugs (Mid)
 - Cleanup and stabilize code (Mid/Hard)
 - Use F2FS (Mid/Hard)
 - Mali dinamic memory (Mid/Hard)
 - Optimization (Easy/Mid)
--- V4 BUILD!!!
+-- V5 BUILD!!!
 
 - Fix reported bugs (Mid)
 -- FINAL BUILD!!!
