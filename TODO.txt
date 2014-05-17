@@ -56,6 +56,7 @@ TODO:
 - Disable "Erase Sd Card" option when there is none (EASY) => DONE
 - Fix code-execution flaw (Easy) => DONE
 - Fix location switch conflict (Easy) => DONE
+- Add init.d support => DONE
 - Remove embedded gApps and add to thread template a link to gApps by AOSPA's gApps (http://forum.xda-developers.com/showthread.php?p=50684821#post50684821) (Easy)
 - Import translations for Reboot menù and LED Controls (Mid)
 - Fix continuous red LED blinking when battery is low (Mid/Hard)
