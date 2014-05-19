@@ -57,6 +57,8 @@ TODO:
 - Fix code-execution flaw (Easy) => DONE
 - Fix location switch conflict (Easy) => DONE
 - Add init.d support => DONE
+- Update bluez to 5.19 (Easy) => DONE
+- Include JustArchi's ArchiDroid Optimizations V2 (Mid)
 - Import translations for Reboot menù and LED Controls (Mid)
 - Fix continuous red LED blinking when battery is low (Mid/Hard)
 -- V2 BUILD!!!
