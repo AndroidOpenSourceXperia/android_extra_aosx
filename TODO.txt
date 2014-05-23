@@ -60,8 +60,7 @@ TODO:
 - Update bluez to 5.19 (Easy) => DONE
 - Include JustArchi's ArchiDroid Optimizations V2 (Mid) => DONE
 - Use GCC 4.8 (Mid) => DONE
-- Import translations for Reboot menù and LED Controls (Mid)
-- Fix continuous red LED blinking when battery is low (Mid) => DONE
+- Fix reported bugs (Mid)
 -- V2 BUILD!!!
 
 - Fix Wi-Fi Direct (Mid/Hard) => 50%
