@@ -38,7 +38,7 @@ TODO:
 - Fix Heartbleed vulnerability in chromium openssl (Easy) => DONE
 - Adapt gralloc, copybit, hwcomposer, stelpcutils, memtrack from sources (Easy) => DONE
 - Fix capacitive button backlights (Complete fix) => DONE
-- Add settings location on-off switch. Credits: Jorge Ruesga <jorge@ruesga.com>, CyanogenMod (Easy) => DONE
+- Add settings location on-off switch (Easy) => DONE
 -- V1 BUILD!!!
 
 - Mount both external and internal storage in TWRP (Mid) => DONE
@@ -58,16 +58,14 @@ TODO:
 - Fix location switch conflict (Easy) => DONE
 - Add init.d support => DONE
 - Update bluez to 5.19 (Easy) => DONE
-- Include JustArchi's ArchiDroid Optimizations V2 (Mid) => DONE
+- Include JustArchi's ArchiDroid Optimizations V3 (Mid) => DONE
 - Use GCC 4.8 (Mid) => DONE
-- Fix reported bugs (Mid)
 -- V2 BUILD!!!
 
+- Fix reported bugs (Mid)
 - Fix Wi-Fi Direct (Mid/Hard) => 50%
 - Fix A2DP (Hard)
-   * https://github.com/android/platform_frameworks_base/commit/b010fd6fe5d2293596a96a45f0a4b709c44c2390
-- Fix NFC (Tags) and HDMI (Hard)
-- Fix reported bugs (Mid)
+- Fix NFC Tags and HDMI (Hard)
 - Final checks ands devices syncs (Easy)
 -- V3 BUILD!!!
 
