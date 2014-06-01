@@ -4,21 +4,22 @@
 We have integrated the follow features in AOSP :
 [LIST]
 [*]BlueZ bluetooth stack
-[*]CyanogenMod's Superuser
+[*]CyanogenMod's SuperUser
 [*]CyanogenMod's File Manager
-[*]CyanogenMod's Torch
 [*]CyanogenMod's BusyBox
 [*]CyanogenMod's Browser
-[*]OmniROM Recovery (TWRP)
-[*]OmniROM music player (Apollo)
-[*]OmniROM equalizer (DSP Manager)
+[*]OmniROM's Torch
+[*]OmniROM's Recovery (TWRP)
+[*]OmniROM's Music Player (Apollo)
+[*]OmniROM's Equalizer (DSP Manager)
 [*]Google Play Store
+[*]Bugfixs
 [/LIST]
 plus some hardware and development stuff. For more information check our [URL="https://github.com/AndroidOpenSourceXperia/android_scripts/blob/master/.repo/local_manifests/local_manifest.xml"]local_manifest.xml[/URL].
 
 
 [B]Why don't you keep it pure AOSP ?[/B]
-Because our goal is to provide a user friendly and clean ROM. We chose these applications because they are opensource and advertisement free. 
+Because our goal is to provide a user friendly and clean ROM. We chose these applications because they are opensource and advertisement free.
 
 
 [B]I do not like some pre-installed applications, how I can delete them ?[/B]
