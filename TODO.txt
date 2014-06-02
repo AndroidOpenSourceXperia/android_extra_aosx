@@ -51,6 +51,7 @@ TODO:
 - Fixed black screen issues in some places (Easy) => DONE
 - Improved UI performance and Added InCallUI in memory to fix call lag (Easy) => DONE
 - Fix ADB in recovery (Easy) => DONE
+- Added Sim Tool Kit => DONE
 - Implement STE codecs part1 (Mid) => DONE
 - Fixed Notification LED's for XP (EASY) => DONE
 - Disable "Erase Sd Card" option when there is none (EASY) => DONE
