@@ -64,7 +64,7 @@ TODO:
 -- V2 BUILD!!!
 
 - Move to KitKat 4.4.3_r1.1
-  1) Cleanup repos: only master and 4.4.3_r1.1 branches (Easy)
+  1) Cleanup repos: only master and 4.4.3_r1.1 branches (Easy) => DONE
   2) Import STE to 4.4.3_r1.1 (???)
 - Fix reported bugs (Mid)
 - Fix Wi-Fi Direct (Mid/Hard) => 50%
