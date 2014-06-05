@@ -65,7 +65,7 @@ TODO:
 
 - Move to KitKat 4.4.3_r1.1
   1) Cleanup repos: only master and 4.4.3_r1.1 branches (Easy) => DONE
-  2) Import STE to 4.4.3_r1.1 (???)
+  2) Import STE to 4.4.3_r1.1 (Easy) => DONE 
      - android_external_openssl => DONE
      - android_external_chromium_org_third_party_openssl => DONE
 - Fix reported bugs (Mid)
