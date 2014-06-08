@@ -68,11 +68,11 @@ TODO:
   2) Import STE to 4.4.3_r1.1 (Easy) => DONE 
      - android_external_openssl => DONE
      - android_external_chromium_org_third_party_openssl => DONE
-- Fix reported bugs (Mid)
 - Fix Wi-Fi Direct (Mid/Hard) => 50%
 - Fix A2DP (Hard)
 - Fix NFC Tags and HDMI (Hard)
 - Final checks ands devices syncs (Easy)
+- Fix reported bugs (Mid)
 -- V3 BUILD!!!
 
 - Fix reported bugs (Mid)
