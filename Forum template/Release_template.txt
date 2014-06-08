@@ -1,4 +1,4 @@
-Thread name: [ROM][UB][AOSP 4.4.2] Xperia U/P/Sola/Go AOSX ROM
+Thread name: [ROM][UB][AOSP 4.4.2] Xperia U/P/Sola/Go AOSX ROM [KTU84M]
 
 [CENTER][IMG]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_aosx/master/Customization/Logo/Logo.png[/IMG]
 
