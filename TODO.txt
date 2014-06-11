@@ -68,6 +68,11 @@ TODO:
   2) Import STE to 4.4.3_r1.1 (Easy) => DONE 
      - android_external_openssl => DONE
      - android_external_chromium_org_third_party_openssl => DONE
+- Fix Widgets and Apps compatibility issues present in V2 (Easy) => DONE
+- Import All 4.4.2 AOSX features into 4.4.3 with proper ownership of them (Easy) => DONE
+- Change OmniTorch to CyanogenMod Torch (Easy) => DONE
+-- V2.1 BUILD
+
 - Fix Wi-Fi Direct (Mid/Hard) => 50%
 - Fix A2DP (Hard)
 - Fix NFC Tags and HDMI (Hard)
