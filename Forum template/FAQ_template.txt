@@ -8,7 +8,7 @@ We have integrated the follow features in AOSP :
 [*]CyanogenMod's File Manager
 [*]CyanogenMod's BusyBox
 [*]CyanogenMod's Browser
-[*]OmniROM's Torch
+[*]CyanogenMod's Torch
 [*]OmniROM's Recovery (TWRP)
 [*]OmniROM's Music Player (Apollo)
 [*]OmniROM's Equalizer (DSP Manager)
