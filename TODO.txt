@@ -71,28 +71,28 @@ TODO:
 - Fix Widgets and Apps compatibility issues present in V2 (Easy) => DONE
 - Import All 4.4.2 AOSX features into 4.4.3 with proper ownership of them (Easy) => DONE
 - Change OmniTorch to CyanogenMod Torch (Easy) => DONE
--- V2.1 BUILD
+-- V3.0 BUILD
 
 - Fix Wi-Fi Direct (Mid/Hard) => 50%
 - Fix A2DP (Hard)
 - Fix NFC Tags and HDMI (Hard)
 - Final checks ands devices syncs (Easy)
 - Fix reported bugs (Mid)
--- V3 BUILD!!!
+-- V4 BUILD!!!
 
 - Fix reported bugs (Mid)
 - Fix FM Radio (Hard)
 - Add overclock CPU/GPU (Mid)
 - Final checks ands devices syncs (Easy)
 - Format and modularize resources (Mid/Hard)
--- V4 BUILD!!!
+-- V5 BUILD!!!
 
 - Fix reported bugs (Mid)
 - Cleanup and stabilize code (Mid/Hard)
 - Use F2FS (Mid/Hard)
 - Mali dinamic memory (Mid/Hard)
 - Optimization (Easy/Mid)
--- V5 BUILD!!!
+-- V6 BUILD!!!
 
 - Fix reported bugs (Mid)
 -- FINAL BUILD!!!
