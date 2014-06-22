@@ -1,8 +1,8 @@
 AOSX Team
 =============
  [95A31] Developer <br>
- [DevSwift1] Developer <br>
- [percy_g2] Developer <br>
+ [DevSwift1] Developer & Xperia U mantainer<br>
+ [percy_g2] Developer & Xperia P mantainer<br>
  [Abhinav2] Junior developer <br>
  [Andrewasth] Mantainer & Code reviewer <br>
  [AGONTUK] TWRP Developer & Code reviewer <br>
