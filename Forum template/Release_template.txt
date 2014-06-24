@@ -1,8 +1,15 @@
-Thread name: [ROM][UB][AOSP 4.4.3] Xperia U/P/Sola/Go AOSX ROM [KTU84M]
+Thread name: [ROM][UB][AOSP 4.4.4] Xperia U/P/Sola/Go AOSX ROM
 
-[CENTER][IMG]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_aosx/master/Customization/Logo/Logo.png[/IMG]
+[INDENT][INDENT][INDENT][INDENT][INDENT][INDENT][FLOATLEFT][IMG="AOSX Logo"]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_aosx/master/Customization/Logo/Logo.png[/IMG][/FLOATLEFT][/INDENT][/INDENT][/INDENT][/INDENT][/INDENT][/INDENT]
 
-Android Open Source Xperia (AOSX) is a team that ported stable AOSP with some CyanogenMod's /OmniROM's features on Sony Xperia Novathor devices.[/CENTER]
+
+
+
+
+[INDENT][INDENT][INDENT][INDENT][INDENT][INDENT][INDENT][INDENT][INDENT][INDENT]Android Open Source Xperia (AOSX) is a team that ported stable AOSP with some CyanogenMod's /OmniROM's features on Sony Xperia Novathor devices.[/INDENT][/INDENT][/INDENT][/INDENT][/INDENT][/INDENT][/INDENT][/INDENT][/INDENT][/INDENT]
+
+
+
 
 [B]Disclaimer:[/B][CODE]
 /*
@@ -10,7 +17,7 @@ Android Open Source Xperia (AOSX) is a team that ported stable AOSP with some Cy
  *
  * We are not responsible for bricked devices, dead SD cards, thermonuclear
  * war, or you getting fired because the alarm app failed. Please do some 
- * research if you have any concerns about features included in this ROM
+ * research if y ou have any concerns about features included in this ROM
  * before flashing it! YOU are choosing to make these modifications, and if
  * you point the finger at us for messing up your device, we will laugh at you.
  *
