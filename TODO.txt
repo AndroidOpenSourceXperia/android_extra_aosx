@@ -74,6 +74,10 @@ TODO:
 -- V3.0 BUILD
 
 - Merge android-4.4.4_r1 => DONE
+- Fix half screen bug (Easy/Mid) => DONE
+- Fix audio regression (Easy/Mid) => DONE
+- Refactor commits (Mid/Hard) => DONE
+- Compile ROM and Kernel with Linaro 4.10 => DONE
 - Fix Wi-Fi Direct (Mid/Hard) => 50%
 - Fix A2DP (Hard)
 - Fix NFC Tags and HDMI (Hard)
