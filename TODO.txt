@@ -64,10 +64,6 @@ TODO:
 -- V2 BUILD!!!
 
 - Move to KitKat 4.4.3_r1.1
-  1) Cleanup repos: only master and 4.4.3_r1.1 branches (Easy) => DONE
-  2) Import STE to 4.4.3_r1.1 (Easy) => DONE 
-     - android_external_openssl => DONE
-     - android_external_chromium_org_third_party_openssl => DONE
 - Fix Widgets and Apps compatibility issues present in V2 (Easy) => DONE
 - Import All 4.4.2 AOSX features into 4.4.3 with proper ownership of them (Easy) => DONE
 - Change OmniTorch to CyanogenMod Torch (Easy) => DONE
@@ -77,27 +73,17 @@ TODO:
 - Fix half screen bug (Easy/Mid) => DONE
 - Fix audio regression (Easy/Mid) => DONE
 - Refactor commits (Mid/Hard) => DONE
-- Compile ROM and Kernel with Linaro 4.10 => DONE
-- Fix Wi-Fi Direct (Mid/Hard) => 50%
+- Compile ROM and Kernel with Linaro 4.10 (Mid) => DONE
+- Use ST-Ericsson WPA (Mid) => DONE
+- Move to Android 4.4.4_r2 (Easy)
+- Move to 3.4 Kernel (Hard)
+- Mali dinamic memory (Mid/Hard)
+- Use F2FS (Mid/Hard)
+- Fix Wi-Fi Direct (Hard)
 - Fix A2DP (Hard)
 - Fix NFC Tags and HDMI (Hard)
 - Final checks ands devices syncs (Easy)
 - Fix reported bugs (Mid)
--- V4 BUILD!!!
-
-- Fix reported bugs (Mid)
-- Fix FM Radio (Hard)
-- Add overclock CPU/GPU (Mid)
-- Final checks ands devices syncs (Easy)
 - Format and modularize resources (Mid/Hard)
--- V5 BUILD!!!
-
-- Fix reported bugs (Mid)
 - Cleanup and stabilize code (Mid/Hard)
-- Use F2FS (Mid/Hard)
-- Mali dinamic memory (Mid/Hard)
-- Optimization (Easy/Mid)
--- V6 BUILD!!!
-
-- Fix reported bugs (Mid)
 -- FINAL BUILD!!!
