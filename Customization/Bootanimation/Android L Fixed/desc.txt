@@ -1,0 +1,7 @@
+625 380 30
+c 1 30 part0
+c 1 0 part1
+c 0 0 part2
+c 1 30 part3
+c 1 0 part4
+c 1 0 part5

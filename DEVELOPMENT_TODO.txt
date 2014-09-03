@@ -1,0 +1,70 @@
+DEVELOPMENT TODO:
+1) Compile ST-Ericsson binaries from source (Hard & Maybe illegal)
+2) Update to 3.4 Kernel (Hard)
+3) Fix Wi-Fi Direct (Hard)
+4) Fix A2DP (Hard)
+5) Fix NFC Tags and HDMI (Hard)
+6) Fix FM Radio (Hard)
+
+DEVELOPMENT DOCUMENTATION:
+1) These sources are leaked sources downloaded from XDA-Developers forum. Although most of the sources are Apache v2 licensed, there are some crucial parts which are proprietary.
+   The legal status of these sources are yet unknown as ST-Ericsson does not exist now and both ST-Microelectronics as well as Ericsson has failed to respond to any query regarding the usage of these sources. 
+   Sources can be found on searching "ST-Ericsson-U8500". The right repository include the follow foldes:
+   - modem
+   - st-ericsson-android
+   - st-ericsson-vendor
+   This sources are working on Android 4.1.2. This mean that many stuff must be adapt/update. 
+   
+   Tips and tricks:
+   Is hard build only a specific binary due dependences. In order to build are present several root makefiles e.g. st-ericsson-vendor/multimedia/linux/build/Android.mk.
+
+2) We have 3 branches in our github.com/AndroidOpenSourceXperia/android_kernel_sony_u8500:
+   - Master: Is the kernel in our ROMs. In origin 3.0.8 updated by @Munjeni to 3.0.101. 
+	     It include these hacks:
+	     - cw1200 wirless driver port from 2.6 by compat-wireless. 
+	     - cg2900 bluetooth driver adapted to 3.4 kernel + 3.4 bluetooth subsystem copy/past from backports.
+	     - F2FS support
+   - 3.4: It is our test kernel. It consist in 3.4 kernel sources from Bamboo phone + our port of Riogrande board. 
+	  It compile fine but not boot, probably due different I/O pins. This imply that for debug is necessary read logs from UART. 
+	  More info about UART on Xperia U can be found at the follow URLs:
+	  - forum.xda-developers.com/showpost.php?p=51288227&postcount=762
+          - forum.xda-developers.com/showpost.php?p=55165216&postcount=1681
+   - 3.4-XM: This is clean 3.4 kernel + XMelancholy port of Riogrande board. It is cleaner than 3.4 and Master but it not compile.
+   
+   Tips and tricks:
+   - Current cg2900 bluetooth driver can be used in 3.4 kernel.
+   - There is 3.4 compatible cw1200 wireless driver in current backports but they need some fix because wlan0 is not created.
+ 
+3) In Android Ice Cream Sandwich Wi-Fi Direct use same interface of Wi-Fi. In Android KitKat Wi-Fi Direct use own "p2p0" interface.
+   The cw1200 wireless driver do not support 2 interfaces running simultaneously in the same wireless card.
+   In order to fix it there are 3 ways:
+   - Hack the driver in order to allow  2 interfaces running simulaneously.
+   - Use wlan0 for all tasks.
+   - Power off wlan0 and power up p2p0 when Wi-Fi Direct is activated.
+   
+   Tips and tricks:
+   - This commit: github.com/CyanogenMod/android_frameworks_base/commit/dbe2bcc1e5bbbe5b4a525c64d9e6f28888bfdbb2 cause Wi-Fi Direct freeze.
+   - Useful documentation: processors.wiki.ti.com/index.php/TI-Android-JB-PortingGuide#WLAN
+   
+4) ST-Ericsson customize very hard android audio subsystem. This costumization include also BlueZ 4.X. 
+   Due Android choose Bluedroid as Buetooth reference stack, we do not have any exploitable source to port.from  Android Ice Cream Sandwich.
+   More information can be found at this URL: github.com/CyanogenMod/android_external_bluetooth_bluez/commit/0162ec71d12070e81869931908b01a3e3f289802.
+   In order to fix A2DP is necessary update and standardize Audio HAL, because BlueZ 5.X is based on it.
+   
+   Tips and tricks:
+   - Useful documentation: source.android.com/devices/audio.html
+
+5) None
+
+6) In order to exploit FM Radio is necessary write an application that exploit it. Leacked sources provide it but it is deprecated due very different Android audio subsystem.
+   Easyest way consists in adapt Qualcomm FM App to exploit our chip. This can be obtained replacing specific Qualcomm API with ST-Ericsson API provided by github.com/AndroidOpenSourceXperia/android_hardware_libhardware/blob/kitkat/include/fmradio.h.
+   
+   Tips and tricks:
+   - Source code of Qualcomm FM App: github.com/CyanogenMod/android_hardware_qcom_fm
+   - Qualcomm FM App use many V4L API, they are compatible with our chip.
+   - All ST-Ericsson FM stuff present in CyanogenMod's code are obsolete.
+   - In CyanogenMod's code there are many #ifdef that involve Qualcomm FM, compare them with old ST-Ericsson #ifdef.
+   
+   
+ 
+   

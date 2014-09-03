@@ -1,5 +1,0 @@
-RESIZE
-for i in *.png; do echo "$i"; convert "$i" -resize <myScreenWidht>x "$i"; done
-
-ZIP
-zip -0 -r  bootanimation.zip *

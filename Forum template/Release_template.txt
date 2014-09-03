@@ -31,7 +31,7 @@ features on Sony Xperia Novathor devices.[/INDENT][/INDENT][/INDENT][/INDENT][/I
 [IMG]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_aosx/master/Screenshots/Screenshot%203.png[/IMG] [IMG]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_aosx/master/Screenshots/Screenshot%204.png[/IMG]
 [/HIDE]
 
-[B]Download:[/B] Link to ROM, please upload it to [url]http://d-h.st/[/url] and kindly don't mirror or share your private build's
+[B]Download:[/B] Link to ROM, please upload it to [url]basketbuild.com/[/url] and kindly don't mirror or share your private build's
 
 [B]How to install:[/B]
 [LIST=1]
@@ -58,6 +58,11 @@ features on Sony Xperia Novathor devices.[/INDENT][/INDENT][/INDENT][/INDENT][/I
 [*] Media A2DP
 [/LIST]
 
+[B]Bugs & Known Issues:[/B]
+[LIST]
+[*] Glitch in Google Play Store: All current ROMs compiled with GCC 4.9 or above have this issue. We can not fix it due Google Play Store is close source.
+[/LIST]
+
 [B]Changelog:[/B] [URL="https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_aosx/master/TODO.txt"]TODO.txt[/URL]
 
 [B]Sources:[/B] [URL="https://github.com/AndroidOpenSourceXperia"]https://github.com/AndroidOpenSourceXperia[/URL]
@@ -65,7 +70,7 @@ features on Sony Xperia Novathor devices.[/INDENT][/INDENT][/INDENT][/INDENT][/I
 [B]Contributors:[/B]
 [URL="http://forum.xda-developers.com/member.php?u=4913184"]percy_g2[/URL], [URL="http://forum.xda-developers.com/member.php?u=5265970"]95A31[/URL], [URL="http://forum.xda-developers.com/member.php?u=4318865"]DevSwift1[/URL]: Developers
 [URL="http://forum.xda-developers.com/member.php?u=4766488"]Abhinav2[/URL]: Junior developer 
-[URL="http://forum.xda-developers.com/member.php?u=5092285"]Andrewasth[/URL]: Mantainer & Code reviewer 
+[URL="http://forum.xda-developers.com/member.php?u=5092285"]Andrewasth[/URL], [URL="http://forum.xda-developers.com/member.php?u=5394746"]xx214718247[/URL]: Mantainer & Code reviewer 
 [URL="http://forum.xda-developers.com/member.php?u=5138693"]AGONTUK[/URL]: TWRP Developer & Code reviewer 
 [URL="http://forum.xda-developers.com/member.php?u=5143053"]alwaysadeel[/URL]: Xperia Sola mantainer 
 [URL="http://forum.xda-developers.com/member.php?u=5302450"]wan5xp[/URL]: Xperia Go mantainer 
