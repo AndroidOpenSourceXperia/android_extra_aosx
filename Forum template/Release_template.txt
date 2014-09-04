@@ -58,11 +58,6 @@ features on Sony Xperia Novathor devices.[/INDENT][/INDENT][/INDENT][/INDENT][/I
 [*] Media A2DP
 [/LIST]
 
-[B]Bugs & Known Issues:[/B]
-[LIST]
-[*] Glitch in Google Play Store: All current ROMs compiled with GCC 4.9 or above have this issue. We can not fix it due Google Play Store is close source.
-[/LIST]
-
 [B]Changelog:[/B] [URL="https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_aosx/master/TODO.txt"]TODO.txt[/URL]
 
 [B]Sources:[/B] [URL="https://github.com/AndroidOpenSourceXperia"]https://github.com/AndroidOpenSourceXperia[/URL]
