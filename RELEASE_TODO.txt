@@ -1,5 +1,5 @@
 To test before release:
-		    XU   XP   XSOLA   XGO
+			  XU   XP   XSOLA   XGO
 Bootimage		| O  |    |       |     |
 Bootanimation		| O  |    |       |     |
 Boot LED animation	| O  |    |       |     |
