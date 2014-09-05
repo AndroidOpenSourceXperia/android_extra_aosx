@@ -1,0 +1,24 @@
+To test before release:
+		    XU   XP   XSOLA   XGO
+Bootimage		| O  |    |       |     |
+Bootanimation		| O  |    |       |     |
+Boot LED animation	| O  |    |       |     |
+WiFi			| O  |    |       |     |
+- Connection		| O  |    |       |     |
+- Hotspot		| O  |    |       |     |
+Bluetooth		| O  |    |       |     |
+- File transfer		| O  |    |       |     |
+- Headset		| O  |    |       |     |
+Audio player		| O  |    |       |     |
+Video player		| O  |    |       |     |
+GPS			| O  |    |       |     |
+Dialer			| O  |    |       |     |
+Cameras			| O  |    |       |     |
+- Front			| O  |    |       |     |
+- Back			| O  |    |       |     |
+Torch			| O  |    |       |     |
+Web surfing		| O  |    |       |     |
+LEDs bar		| O  |    |       |     |
+
+O = Ok
+X = Fail
