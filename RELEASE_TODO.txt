@@ -1,5 +1,5 @@
 To test before release:
-			  XU   XP   XSOLA   XGO
+			  XU   XP   XSOLA    XGO
 Bootimage		| O  |    |   O    |     |
 Bootanimation		| O  |    |   O    |     |
 Boot LED animation	| O  |    |   O    |     |
@@ -14,8 +14,8 @@ Video player		| O  |    |   O    |     |
 GPS			| O  |    |   O    |     |
 Dialer			| O  |    |   O    |     |
 Cameras			| O  |    |   O    |     |
-- Front			| O  |    |   O    |     |
-- Back			| O  |    |   -    |     |
+- Front			| O  |    |   -    |     |
+- Back			| O  |    |   O    |     |
 Torch			| O  |    |   O    |     |
 Web surfing		| O  |    |   O    |     |
 LEDs bar		| O  |    |   O    |     |
