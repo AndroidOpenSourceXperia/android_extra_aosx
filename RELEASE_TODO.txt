@@ -1,24 +1,24 @@
 To test before release:
 			  XU   XP   XSOLA   XGO
-Bootimage		| O  |    |       |     |
-Bootanimation		| O  |    |       |     |
-Boot LED animation	| O  |    |       |     |
-WiFi			| O  |    |       |     |
-- Connection		| O  |    |       |     |
-- Hotspot		| O  |    |       |     |
-Bluetooth		| O  |    |       |     |
-- File transfer		| O  |    |       |     |
-- Headset		| O  |    |       |     |
-Audio player		| O  |    |       |     |
-Video player		| O  |    |       |     |
-GPS			| O  |    |       |     |
-Dialer			| O  |    |       |     |
-Cameras			| O  |    |       |     |
-- Front			| O  |    |       |     |
-- Back			| O  |    |       |     |
-Torch			| O  |    |       |     |
-Web surfing		| O  |    |       |     |
-LEDs bar		| O  |    |       |     |
+Bootimage		| O  |    |   O    |     |
+Bootanimation		| O  |    |   O    |     |
+Boot LED animation	| O  |    |   O    |     |
+WiFi			| O  |    |   O    |     |
+- Connection		| O  |    |   O    |     |
+- Hotspot		| O  |    |   X    |     |
+Bluetooth		| O  |    |   O    |     |
+- File transfer		| O  |    |   O    |     |
+- Headset		| O  |    |   -    |     |
+Audio player		| O  |    |   O    |     |
+Video player		| O  |    |   O    |     |
+GPS			| O  |    |   O    |     |
+Dialer			| O  |    |   O    |     |
+Cameras			| O  |    |   O    |     |
+- Front			| O  |    |   O    |     |
+- Back			| O  |    |   -    |     |
+Torch			| O  |    |   O    |     |
+Web surfing		| O  |    |   O    |     |
+LEDs bar		| O  |    |   O    |     |
 
 O = Ok
 X = Fail
