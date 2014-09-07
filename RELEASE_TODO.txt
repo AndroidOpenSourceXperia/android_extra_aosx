@@ -5,7 +5,7 @@ Bootanimation		| O  |    |   O    |  O   |
 Boot LED animation	| O  |    |   O    |  O   |
 WiFi			| O  |    |   O    |  O   |
 - Connection		| O  |    |   O    |  O   |
-- Hotspot		| X  |    |   X    |  X   |
+- Hotspot		| O  |    |   X    |  X   |
 Bluetooth		| O  |    |   O    |  O   |
 - File transfer		| O  |    |   O    |  O   |
 - Headset		| O  |    |   -    |  -   |
