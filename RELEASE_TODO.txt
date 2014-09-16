@@ -17,8 +17,12 @@ Cameras			| O  |    |   O    |  O   |
 - Front			| O  |    |   -    |  -   |
 - Back			| O  |    |   O    |  O   |
 Torch			| O  |    |   O    |  O   |
-Web surfing		| O  |    |   O    |  O   |
 LEDs bar		| O  |    |   O    |  -   |
+Modile Data		|    |    |        |      |
+Ambient Sensor Light*	|    |    |        |      |
+
+* Use https://play.google.com/store/apps/details?id=imoblife.androidsensorbox&hl=it. Do not care precision, check if value reach 0
+and go up and down if light go up and down.
 
 O = Ok
 X = Fail
