@@ -76,6 +76,11 @@ RELEASE TODO:
 - Include Illumination bar fix by Agontuk (Easy) => DONE
 - Update gApps (Easy) => DONE
 - Move to Android 4.4.4_r2 (Easy) => DONE
+- Enable control of illumination bar from settings (Mid) => DONE
+- Update Bluez to 5.23 (Easy) => DONE
+- Update TWRP to 2.8.0.0 (Easy) => DONE
+- Add screenshot feature in TWRP (Easy) => DONE
+- Fix KeyguardHostView error (Easy) => DONE
 -- V4 BUILD!!!
 
 MAINTAINING TODO:
