@@ -81,6 +81,7 @@ RELEASE TODO:
 - Update TWRP to 2.8.0.0 (Easy) => DONE
 - Add screenshot feature in TWRP (Easy) => DONE
 - Fix KeyguardHostView error (Easy) => DONE
+- Fix YouTube  (Easy) => DONE
 -- V4 BUILD!!!
 
 MAINTAINING TODO:
