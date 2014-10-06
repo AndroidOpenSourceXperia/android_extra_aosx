@@ -82,6 +82,7 @@ RELEASE TODO:
 - Add screenshot feature in TWRP (Easy) => DONE
 - Fix KeyguardHostView error (Easy) => DONE
 - Fix YouTube  (Easy) => DONE
+- Update BlueZ to 5.24 release  (Easy) => DONE
 -- V4 BUILD!!!
 
 MAINTAINING TODO:
