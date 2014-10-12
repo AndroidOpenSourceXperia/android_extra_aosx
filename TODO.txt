@@ -83,6 +83,7 @@ RELEASE TODO:
 - Fix KeyguardHostView error (Easy) => DONE
 - Fix YouTube  (Easy) => DONE
 - Update BlueZ to 5.24 release  (Easy) => DONE
+- Fix video streaming in many apps like Crackle and Twitch (Mid/Hard) => DONE
 -- V4 BUILD!!!
 
 MAINTAINING TODO:
