@@ -1,4 +1,4 @@
-Thread name: [ROM][UB][AOSP 4.4.4] Xperia U/P/Sola/Go AOSX ROM
+Thread name: [ROM][UB][AOSP 5.0.0] Xperia U/P/Sola/Go AOSX ROM
 
 
 [INDENT][INDENT][FLOATLEFT][IMG="AOSX Logo"]https://raw.githubusercontent.com/AndroidOpenSourceXperia/android_extra_aosx/master/Customization/Logo/Logo.png[/IMG][/FLOATLEFT][/INDENT][/INDENT]
@@ -6,8 +6,8 @@ Thread name: [ROM][UB][AOSP 4.4.4] Xperia U/P/Sola/Go AOSX ROM
 
 
 [INDENT][INDENT][INDENT][INDENT][INDENT][INDENT][SIZE="5"][I]Android Open Source Xperia[/I][/SIZE]
-Is a team that ported stable AOSP with some  CyanogenMod's/OmniROM's
-features on Sony Xperia Novathor devices.[/INDENT][/INDENT][/INDENT][/INDENT][/INDENT][/INDENT]
+Is a team that ported stable AOSP with some features from various aftermarket firmwares
+on Sony Xperia Novathor devices.[/INDENT][/INDENT][/INDENT][/INDENT][/INDENT][/INDENT]
 
 
 
