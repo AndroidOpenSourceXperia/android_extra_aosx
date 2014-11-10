@@ -88,7 +88,7 @@ RELEASE TODO:
 
 - Bring Android 5.0 Lollipop
 - Merge android-5.0.0_r2 (base/native/av/core/libhardware/libhardware_legacy/bionic/build/opt_telephony/Settings/Bluetooth) => DONE
-- Merge Device changes from Agontuk (montblanc-common/kumquat/hardware_ste-sony) => DONE                         
+- Merge Device changes from Agontuk (montblanc-common/kumquat/pepper/hardware_ste-sony) => DONE                         
 - ????
 - ????
 - ????
