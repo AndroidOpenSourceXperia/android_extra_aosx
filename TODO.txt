@@ -86,6 +86,12 @@ RELEASE TODO:
 - Fix video streaming in many apps like Crackle and Twitch (Mid/Hard) => DONE
 -- V4 BUILD!!!
 
+- Bring Android 5.0 Lollipop
+- ????
+- ????
+- ????
+-- V5 BUILD!!!
+
 MAINTAINING TODO:
 - Fix reported bugs (Mid)
 - Format and modularize resources (Mid/Hard)
