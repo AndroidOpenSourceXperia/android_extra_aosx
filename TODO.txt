@@ -90,7 +90,7 @@ RELEASE TODO:
 - Merge Device changes from Agontuk (montblanc-common/kumquat/pepper/hardware_ste-sony) (Easy) => DONE                         
 - Update Bluez to 5.25 (Easy) => DONE
 - Update TWRP to 2.8.2.0 (Easy) => DONE
-- Patch up lollipop for STE (Mid/Hard)
+- Patch up lollipop for STE (base/native/core/libhardware/libhardware_legacy/bionic/build/opt_telephony) (Mid/Hard)
 - ???
 - ???
 -- V5 BUILD!!!
