@@ -86,11 +86,11 @@ RELEASE TODO:
 - Fix video streaming in many apps like Crackle and Twitch (Mid/Hard) => DONE
 -- V4 BUILD!!!
 
-- Merge android-5.0.0_r2 (base/native/av/core/libhardware/libhardware_legacy/bionic/build/opt_telephony/Settings/Bluetooth) (Easy) => DONE
+- Merge android-5.0.0_r2 (Easy) => DONE
 - Merge Device changes from Agontuk (montblanc-common/kumquat/pepper/hardware_ste-sony) (Easy) => DONE                         
 - Update Bluez to 5.25 (Easy) => DONE
 - Update TWRP to 2.8.2.0 (Easy) => DONE
-- Patch up lollipop for STE (base/native/core/libhardware/libhardware_legacy/bionic/build/opt_telephony) (Mid/Hard)
+- Patch up lollipop for STE (Mid/Hard)
 - ???
 - ???
 -- V5 BUILD!!!
